@@ -228,3 +228,9 @@ __marimo__/
 # ~38 MB of duplicated tooling, kept out of version control)
 .claude/skills/
 .agents/skills/
+
+# BMAD internal planning — keep private on this PUBLIC repo.
+# Decision logs hold candid rationale/overrides; addenda hold private context
+# and frank risk/competitive notes. Publish deliberately, never by default.
+_bmad-output/**/.decision-log.md
+_bmad-output/**/addendum.md
