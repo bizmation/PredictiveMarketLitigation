@@ -100,7 +100,7 @@ PML succeeds when it is **public, useful, and visibly trustworthy** to the two c
 - **Legal exposure.** Publishing legal analysis carries unauthorized-practice-of-law and defamation considerations. Mitigated by an information-only (not advice) posture, clear disclaimers, neutral sourcing to primary documents, and — structurally — human approval before every publish.
 - **Accuracy *is* the product.** Because the content is AI-drafted, one confident error erodes the entire trust thesis. Human-in-the-loop review, transparent corrections, and public traces are the controls — and they have to actually work.
 - **Neutrality vs. revenue.** Ads — especially from covered exchanges — conflict with the neutral-authority positioning. Deferred until traffic justifies the trade-off, and taken consciously when it comes.
-- **Naming.** "Prediction" vs. "Predictive" is currently inconsistent across the domain, repo, and references. One canonical name must be chosen before public launch.
+- **Naming — resolved.** The repository was renamed to `bizmation/PredictionMarketLitigation`; the domain, repo, and project now consistently use "Prediction."
 - **Solo and out-of-pocket.** One person, real costs. Bounded budgets with visible alerts are a hard requirement, not a nicety — a runaway agent is both a financial and a credibility risk.
 
 ## Vision
