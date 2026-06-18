@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ── Project-specific (added on init) ──────────────────────────────
+# macOS
+.DS_Store
+
+# Claude Code — personal/local
+.claude/settings.local.json
+
+# BMAD installer-generated skill copies (reinstall via the BMAD installer;
+# ~38 MB of duplicated tooling, kept out of version control)
+.claude/skills/
+.agents/skills/
